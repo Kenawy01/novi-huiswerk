@@ -12,7 +12,8 @@ body {
 Gebruik dit om de tekstkleur van de titels te veranderen naar grijs, met de declaratie "color: grey;" */
 
  h3.article-title {
-    color: grey; 
+    color: grey;
+     font-size: 40px;
 }
 
 /* 2: Geef de <span>-tag in de footer van het HTML-document een passende class-naam. Gebruik de declaratie "font-size: 10px;"
