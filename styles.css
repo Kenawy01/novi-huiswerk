@@ -26,7 +26,7 @@ span.title-foot {
 Gebruik de declaratie "font-family: 'Noto Sans JP', sans-serif;" */
 
 h1, h2, h3 {
-    font-family: "Noto Sans Javanese", sans-serif;
+    font-family: "Noto Sans Adlam", sans-serif;
 }
 
 /* 4: De header afbeelding is op dit moment te groot. Geef de <img>-tag in de header van het HTML-document een passende id-naam,
